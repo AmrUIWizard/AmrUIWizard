@@ -27,6 +27,4 @@ Dedicated to excellence, I'm on a journey to be among the top 10% in the tech re
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AmrUIWizard"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrUIWizard&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/AmrUIWizard" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrUIWizard&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
