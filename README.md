@@ -1,18 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amr Abdelrhman
 ======================================================================================================================================
 
-Software Engineer
+Developer
 -----------------
 
 Dedicated to excellence, I'm on a journey to be among the top 10% in the tech realm. With a passion for problem-solving and mastery of design patterns, I thrive on challenges. A keen follower of tech trends, I'm committed to contributing to open source projects, embracing collaboration, and making meaningful contributions to the ever-evolving landscape of technology.
 
-* 🌍  I'm based in Saudi Arabia
-* 🖥️  See my portfolio at [amrabdelrhman.com](http://amrabdelrhman.com)
-* ✉️  You can contact me at [amrr.abdelrhman@gmail.com](mailto:amrr.abdelrhman@gmail.com)
-* 🚀  I'm currently working on [javascript-algorithms](http://github.com/AmrUIWizard/javascript-algorithms)
-* 🧠  I'm learning React, Next.js
-* 🤝  I'm open to collaborating on other javascript projects
-* ⚡  I have a cat named Fasolia
 
 ### Skills
 
